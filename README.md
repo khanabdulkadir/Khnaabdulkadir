@@ -1,2 +1,2 @@
 # Khnaabdulkadir
-Old school XtGem-style personal site
+Old school github_tyle personal site
